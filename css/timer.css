@@ -13,9 +13,9 @@ body {
 
 .wrapper {
 	position: absolute;
-    top: 50%;
-    height: 150px;
-    margin-top: -75px;
+    	top: 50%;
+    	height: 150px;
+    	margin-top: -75px;
 }
 
 .background {
@@ -41,7 +41,7 @@ body {
 	color: white;
 	font-size: 18px;
 	font-family: serif;
-    font-weight: bold;
+    	font-weight: bold;
 }
 
 .tips span:first-child{
